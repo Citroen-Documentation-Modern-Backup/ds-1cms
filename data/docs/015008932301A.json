@@ -1,0 +1,33 @@
+{
+ "ref": "015008932301A",
+ "refDisplay": "0150 08 932301A",
+ "title": "MATELASSURE ASSISE AR - COIFFE",
+ "nature": "",
+ "applicability": "BANQ AR COUS MONOBLOC DOS SEPA RABATTABLE ET C&T PARFAIT KNIT + MAIL PLACER \"7F\"",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMS",
+   "variantKey": "B0D=B0DA5&B0F=B0FE7",
+   "fctId": "FCT0231"
+  },
+  {
+   "ldp": "1CMS",
+   "variantKey": "B0D=B0DA5&B0F=B0FE9",
+   "fctId": "FCT0231"
+  },
+  {
+   "ldp": "1CMS",
+   "variantKey": "B0D=B0DK0&B0F=B0FE7",
+   "fctId": "FCT0231"
+  },
+  {
+   "ldp": "1CMS",
+   "variantKey": "B0D=B0DK0&B0F=B0FE9",
+   "fctId": "FCT0231"
+  }
+ ]
+}

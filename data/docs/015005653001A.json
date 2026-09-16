@@ -1,0 +1,33 @@
+{
+ "ref": "015005653001A",
+ "refDisplay": "0150 05 653001A",
+ "title": "AUTORADIO - ANTIPARASITAGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMS",
+   "variantKey": "B0D=B0DA5&B0F=B0FE7",
+   "fctId": "FCT0350"
+  },
+  {
+   "ldp": "1CMS",
+   "variantKey": "B0D=B0DA5&B0F=B0FE9",
+   "fctId": "FCT0350"
+  },
+  {
+   "ldp": "1CMS",
+   "variantKey": "B0D=B0DK0&B0F=B0FE7",
+   "fctId": "FCT0350"
+  },
+  {
+   "ldp": "1CMS",
+   "variantKey": "B0D=B0DK0&B0F=B0FE9",
+   "fctId": "FCT0350"
+  }
+ ]
+}

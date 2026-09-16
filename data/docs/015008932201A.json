@@ -1,0 +1,53 @@
+{
+ "ref": "015008932201A",
+ "refDisplay": "0150 08 932201A",
+ "title": "ARMATURE ASSISE AR - CARTER",
+ "nature": "",
+ "applicability": "BANQ AR COUS MONOBLOC DOS SEPA RABATTABLE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMS",
+   "variantKey": "B0D=B0DA5&B0F=B0FE7",
+   "fctId": "FCT0230"
+  },
+  {
+   "ldp": "1CMS",
+   "variantKey": "B0D=B0DA5&B0F=B0FE7",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CMS",
+   "variantKey": "B0D=B0DA5&B0F=B0FE9",
+   "fctId": "FCT0230"
+  },
+  {
+   "ldp": "1CMS",
+   "variantKey": "B0D=B0DA5&B0F=B0FE9",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CMS",
+   "variantKey": "B0D=B0DK0&B0F=B0FE7",
+   "fctId": "FCT0230"
+  },
+  {
+   "ldp": "1CMS",
+   "variantKey": "B0D=B0DK0&B0F=B0FE7",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CMS",
+   "variantKey": "B0D=B0DK0&B0F=B0FE9",
+   "fctId": "FCT0230"
+  },
+  {
+   "ldp": "1CMS",
+   "variantKey": "B0D=B0DK0&B0F=B0FE9",
+   "fctId": "FCT0333"
+  }
+ ]
+}

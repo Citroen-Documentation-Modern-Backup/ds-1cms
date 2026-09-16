@@ -1,0 +1,35 @@
+{
+ "ref": "B2CF010VP0",
+ "refDisplay": "B2CF010VP0",
+ "title": "Réglage : capteur de position",
+ "nature": "Réglages",
+ "applicability": " JUSQU’A OPR 12534",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMS",
+   "variantKey": "B0D=B0DA5&B0F=B0FE7",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CMS",
+   "variantKey": "B0D=B0DA5&B0F=B0FE9",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CMS",
+   "variantKey": "B0D=B0DK0&B0F=B0FE7",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CMS",
+   "variantKey": "B0D=B0DK0&B0F=B0FE9",
+   "fctId": "FCT0017"
+  }
+ ]
+}
